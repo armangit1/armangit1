@@ -2,7 +2,7 @@
 <h3 align="center">A passionate developer from Bangladesh</h3>
 <p>I'm a dedicated frontend developer on a mission to craft exceptional user experiences and turn creative visions into reality. With a solid foundation in HTML, CSS, and JavaScript, I thrive on the ever-evolving challenges of the web development landscape.</p>
 
-<img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif?cid=ecf05e47u53g07uxgcqk0w0hyjhtvxcrtb10ksrqbl6x4edx&ep=v1_gifs_related&rid=giphy.gif&ct=g"/>)
+<img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif?cid=ecf05e47u53g07uxgcqk0w0hyjhtvxcrtb10ksrqbl6x4edx&ep=v1_gifs_related&rid=giphy.gif&ct=g"/>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=armangit1&label=Profile%20views&color=0e75b6&style=flat" alt="armangit1" /> </p>
 
