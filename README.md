@@ -1,3 +1,6 @@
+<div id="header" align="center">
+    <img src="" alt="Banner Image">
+</div>
 <h1 align="center">Hi 👋, I'm Arman Khan</h1>
 <h3 align="center">A passionate developer from Bangladesh</h3>
 <p>I'm a dedicated frontend developer on a mission to craft exceptional user experiences and turn creative visions into reality. With a solid foundation in HTML, CSS, and JavaScript, I thrive on the ever-evolving challenges of the web development landscape.</p>
